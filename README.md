@@ -1,2 +1,5 @@
-# tech201_devops
-Notes on DevOps
+# Tech 201 DevOps
+
+### What is DevOps
+![](devops.png)
+
